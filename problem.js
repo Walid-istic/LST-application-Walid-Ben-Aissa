@@ -15,7 +15,7 @@ function problem() {
             t[i] = 0
         }
     }
-    console.log("the longest :" + longest + " the longest index: " + longesti)
+    console.log("the longest: " + longest + " the longest's '0' index: " + longesti)
     return t
 }
 
