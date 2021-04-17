@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    margin: 0%;
+}
+#left{
+    background-color: #bc863c;
+    width: 15%;
+    float: left;
+    align-self: center;
+    flex: auto;
+    height: 100vh;
+}
+#right{
+    background-color: #015b7e;
+    text-align: center;
+    width: 72%;
+    float: left;
+    align-self: center;
+    flex: auto;
+    height: 100vh;
+}
+.cont{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#save{
+    padding-top: 1px;
+    padding-right: 10px;
+    padding-bottom: 1px;
+    padding-left: 10px;
+    text-align: center;
+    color: white;
+    width:20%;
+    background-color: #005826;
+    position:absolute;
+    bottom: 0;
+
+}
